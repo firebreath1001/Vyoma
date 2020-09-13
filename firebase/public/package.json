@@ -1,0 +1,16 @@
+{
+  "name": "vyoma",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwind build src/Style.css -o dist/Style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^1.8.8",
+    "vue": "^2.6.12"
+  },
+  "devDependencies": {},
+  "description": ""
+}
